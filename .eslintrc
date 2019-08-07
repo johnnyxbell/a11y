@@ -1,0 +1,16 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["plugin:jsx-a11y/recommended"],
+  "plugins": ["babel", "jsx-a11y"],
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".jsx"]
+      }
+    },
+    "import/ignore": ["node_modules"]
+  }
+}
