@@ -1,7 +1,7 @@
 {
   "parser": "babel-eslint",
-  "extends": ["plugin:jsx-a11y/recommended"],
-  "plugins": ["babel", "jsx-a11y"],
+//  "extends": ["plugin:jsx-a11y/recommended"],
+//  "plugins": ["babel", "jsx-a11y"],
   "parserOptions": {
     "sourceType": "module"
   },
